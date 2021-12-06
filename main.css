@@ -1,0 +1,65 @@
+*{
+    margin : 0.5vh;
+}
+body{
+    background-color: black;
+    text-align: center;
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+    text-align: center;
+    font-size: 7vh;
+}
+
+p{
+    text-align: center;
+    font-size: 4vh;
+    color:white;
+}
+
+button{
+    border: none;
+    padding: 1vh 3vh;
+    background-color: goldenrod;
+    color: #016f32;
+    font-style: italic;
+    font-weight: bolder;
+    font-size : 4vh;
+    border-radius: 2vh;
+    align-items: center;
+    margin: 2vh 1vh 1vh 1vh;
+}
+button:active{
+    background-color: white;
+}
+#firstdiv{
+    border-style: double;
+    border-width: 1.3vh;
+    border-color: goldenrod;
+    width: fit-content;
+    margin:auto;
+    padding: 3vh;
+    background-color: #016f32;
+}
+#addmoneybutton{
+    float: right;
+    background-color: goldenrod;
+    color: #016f32;
+    
+}
+#addmoneybutton:hover{
+    background-color: red;
+    color:white;
+}
+#newgamebutton{
+    background-color: goldenrod;
+    color: #016f32;
+    
+}
+#newgamebutton:hover{
+    background-color: red;
+    color:white;
+}
