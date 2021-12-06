@@ -1,0 +1,16 @@
+{
+  "name": "BlackJack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Game"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://JugalPatel01.github.io/BlackJackGame",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
